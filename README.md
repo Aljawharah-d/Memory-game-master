@@ -2,10 +2,10 @@
 
 ## Table of Contents
 
-* [Game Preview](#Game Preview)
-* [Getting started](#Getting started)
+* [Game Preview](#Game-Preview)
+* [Getting started](#Getting-started)
 * [Instructions](#instructions)
-* [How to Play](#How to Play)
+* [How to Play](#How-to-Play)
 * [Contributing](#contributing)
 * [Dependencies](#Dependencies)
 
